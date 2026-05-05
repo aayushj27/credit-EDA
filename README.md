@@ -40,3 +40,6 @@ Clone the repository.
 Ensure you have application_data.csv in the root directory.
 Install dependencies: pip install pandas numpy matplotlib seaborn.
 Run the Jupyter Notebook to view the analysis and plots.
+
+Since, the application_data.csv is too large in size to be uploaded here
+this is the link to download it- https://mega.nz/folder/0MxhiZRD#2PfHDM6INwhdpmH-FOsQWw
